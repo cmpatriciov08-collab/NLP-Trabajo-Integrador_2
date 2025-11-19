@@ -1,3 +1,4 @@
+
 ---
 title: MVP Consultoría RAG para Discursos de Javier Milei
 emoji: 🤖
@@ -97,6 +98,8 @@ Consulta del usuario (app.py) --> Búsqueda de documentos relevantes --> Generac
 - "¿Qué menciona sobre educación?"
 
 ## Despliegue en HF Spaces
+
+https://huggingface.co/spaces/manuelcpv92/Consultor_Virtual_RAG_de_Politicas_y_Discursos_de_Milei
 
 ### Preparación
 
@@ -256,5 +259,6 @@ Para reportar bugs o solicitar nuevas funcionalidades:
 Este proyecto es de código abierto. Consulta el archivo LICENSE para más detalles.
 
 ## Contacto
+
 
 Para preguntas o colaboraciones, contacta al maintainer del proyecto.
