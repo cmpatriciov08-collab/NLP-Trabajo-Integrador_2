@@ -1,4 +1,3 @@
-
 ---
 title: MVP Consultoría RAG para Discursos de Javier Milei
 emoji: 🤖
@@ -11,6 +10,8 @@ pinned: false
 ---
 
 # MVP Consultoría RAG para Discursos de Javier Milei
+
+LINK: https://huggingface.co/spaces/manuelcpv92/mvp_ag_optimizado
 
 Este proyecto es un Mínimo Producto Viable (MVP) de un sistema de Generación Aumentada por Recuperación (RAG) diseñado para consultar discursos oficiales y transcripciones de audios del Presidente Javier Milei. Utiliza técnicas de procesamiento de lenguaje natural para permitir consultas precisas sobre el contenido de sus discursos públicos y transcripciones.
 
@@ -262,3 +263,4 @@ Este proyecto es de código abierto. Consulta el archivo LICENSE para más detal
 
 
 Para preguntas o colaboraciones, contacta al maintainer del proyecto.
+
