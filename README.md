@@ -264,12 +264,13 @@ Este proyecto es de código abierto. Consulta el archivo LICENSE para más detal
 **[Velasquez Christian]**  
 - Email: 94721647@ifts24.edu.ar
 
-- **[Sanchez Carlos]**  
+**[Sanchez Carlos]**  
 - Email: 18253606@ifts24.edu.ar
 
 **Trabajo Integrador - NLP**  
 Fecha de realización: [20/11/25]
 ---
+
 
 
 
