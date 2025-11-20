@@ -268,11 +268,6 @@ Este proyecto es de código abierto. Consulta el archivo LICENSE para más detal
 - Email: 18253606@ifts24.edu.ar
 
 
-**Trabajo Integrador - NLP**  
-Fecha de realización: [20/11/25]
----
-
-
 
 
 
