@@ -259,8 +259,17 @@ Para reportar bugs o solicitar nuevas funcionalidades:
 
 Este proyecto es de código abierto. Consulta el archivo LICENSE para más detalles.
 
-## Contacto
+## 👤 Autor
+
+**[Velasquez Christian]**  
+- GitHub: [@cmpatriciov08](https://github.com/cmpatriciov08-collab)
+- Email: 94721647@ifts24.edu.ar
+
+**Trabajo Integrador - NLP**  
+Fecha de realización: [20/11/25]
+---
 
 
 Para preguntas o colaboraciones, contacta al maintainer del proyecto.
+
 
